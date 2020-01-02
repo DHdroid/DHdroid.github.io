@@ -71,6 +71,15 @@ comments:
   disqus:
     shortname: dhdroid
 
+# Enable Search
+search: true
+search_full_content: false
+search_provide: "algolia"
+
+# Read Files
+include:
+  - .htaccess
+  - _pages
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
