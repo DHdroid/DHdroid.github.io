@@ -246,6 +246,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  faraday (~> 0.17)
   github-pages
   jekyll (~> 3.8.3)
   jekyll-feed (~> 0.12)
@@ -256,4 +257,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
