@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "python 부모 클래스 생성자"
+title:  "[python] 부모 클래스 생성자"
 date:   2020-11-23
 categories: python
 ---

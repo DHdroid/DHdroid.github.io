@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Github 블로그 개설"
+title:  "[공지] Github 블로그 개설"
 date:   2019-12-30
 categories: 공지
 ---
