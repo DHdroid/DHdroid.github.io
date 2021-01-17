@@ -26,23 +26,25 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 */
 body { margin: 0; padding: 0; color: #494e52; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; line-height: 1.8; word-break: break-all;}
 html {
-  font-size: 12px; // change to whatever
-  
-  @include breakpoint($small) {
-    font-size: 12px; // change to whatever
-  }
+  /* apply a natural box layout model to all elements */
+  box-sizing: border-box;
+  background-color: $background-color;
+  font-size: 14px;
 
   @include breakpoint($medium) {
-    font-size: 14px; // change to whatever
+    font-size: 16px;
   }
 
   @include breakpoint($large) {
-    font-size: 16px; // change to whatever
+    font-size: 16px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 18px; // change to whatever
+    font-size: 18px;
   }
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 img + em {
   font-size: .8rem;
