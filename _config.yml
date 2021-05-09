@@ -44,9 +44,9 @@ author:
   bio: "SNUCSE 18"
   location: "Seoul National University"
   links:
-    - label: " Naver Blog"
-      icon: "fas fa-rss"
-      url: "https://happydh1.blog.me"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/donghyun-son-5b86501b4/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DHdroid" 
