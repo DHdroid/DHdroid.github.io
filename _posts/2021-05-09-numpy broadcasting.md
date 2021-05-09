@@ -5,8 +5,14 @@ date:   2021-01-17
 categories: CV
 toc: true
 ---
+## 소개
+numpy를 이용한 코드를 작성하다보면, 두 operand간 shape이나 dimension이 안맞는 경우가 종종 발생하는데요, 이때 일어나는 암시적안 연산을 broadcasting이라고 부릅니다.
+
+## numpy?
 numpy는 각종 수학적인 연산을 지원하는 python 라이브러리로, operation들이 내부적으로 C로 구현되어 있어 python-native operation들보다 우수한 성능의 행렬 및 벡터 연산을 지원합니다.  
 또한 편리성면에서도 압도적인데, 이게 돼? 싶은 연산들이 numpy에서는 되는 경우가 많습니다. 그만큼 라이브러리 내부에서 암시적으로 처리해주는 부분들이 많다는 것인데, 그 중 하나가 오늘 다룰 **broadcasting**입니다.
+
+## broadcasting
 <br/>  
 
 numpy는 다음과 같이 element-wise한 연산을 기본으로 동작합니다.  
