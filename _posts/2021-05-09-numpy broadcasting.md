@@ -2,7 +2,7 @@
 layout: single
 title:  "[python] numpy broadcasting"
 date:   2021-01-17
-categories: CV
+categories: python
 toc: true
 ---
 ## 소개
