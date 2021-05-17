@@ -77,7 +77,7 @@ Solved cloud scheduling problem within limited resources utilizing PageRank algo
 Devised optimization algorithm for traffic light scheduling to minimize the total amount of time spent in traffic
 
 - **TartanHacks 2021, Microsoft Azure Champ Prize : Hack For Social Good**  
-Developed an application "HearMe", which helps hearing-impaired people to be aware of surrounding voices
+Developed an application "HearMe", which helps hearing-impaired people to be aware of surrounding voices 
 
 - **ACM-ICPC Korea Preliminary, 11th place**
 
