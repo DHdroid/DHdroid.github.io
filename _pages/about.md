@@ -3,7 +3,7 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
-last_modified_at: 2020-11-22 21:42:33 +09:00
+last_modified_at: 2020-05-16 21:42:33 +09:00
 --- 
 Last Update: 2020-05-16.
 ## Contact

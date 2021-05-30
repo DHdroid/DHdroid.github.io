@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "[python] numpy broadcasting"
-date:   2021-01-17
+date:   2021-05-09
 categories: python
 toc: true
 ---
