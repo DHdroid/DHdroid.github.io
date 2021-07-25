@@ -3,9 +3,9 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
-last_modified_at: 2020-05-16 21:42:33 +09:00
+last_modified_at: 2021-05-16 21:42:33 +09:00
 --- 
-Last Update: 2020-05-16.
+Last Update: 2021-05-16.
 ## Contact
 E-mail: happydh1@snu.ac.kr  
 Linkedin: [profile](https://www.linkedin.com/in/donghyun-son-5b86501b4/)  / Github: [profile](http://github.com/DHdroid)
