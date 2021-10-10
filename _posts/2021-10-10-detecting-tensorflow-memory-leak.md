@@ -5,7 +5,7 @@ date:   2021-10-11
 categories: TensorFlow
 toc: false
 ---
-TensorFlow 2.x에서 custom training loop을 작성하여 train을 진행하다 보면, epoch이나 step이 진행됨에 따라 memory occupation이 조금씩 증가하는 경우가 종종 발생합니다. 그 중 제가 마주했던 2가지 원인들을 간략히 소개합니다.
+TensorFlow 2.x에서 custom training loop을 작성하여 train을 진행하다 보면, epoch이나 step이 진행됨에 따라 memory usage가 조금씩 증가하는 경우가 종종 발생합니다. 그 중 제가 마주했던 2가지 원인들을 간략히 소개합니다.
 
 ## 1. tf.function으로 데코레이팅된 함수 호출 시 발생하는 re-tracing 문제
 tf.function으로 데코레이팅된 함수가 python-native parameter를 가지면, 해당 parameter가 바뀌어 호출될 때마다 함수가 re-tracing되며 새로운 메모리가 할당됩니다. 아래는 TensorFlow docs에서 발췌한 코드입니다.
