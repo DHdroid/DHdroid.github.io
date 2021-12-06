@@ -44,11 +44,11 @@ Linkedin: [profile](https://www.linkedin.com/in/dhdroid/)  / Github: [profile](h
 - **Article Pair Matching for News Clustering** @ NCSOFT internship 
   - Implemented a graph-based model and conducted an ablation study
   - Improved model accuracy by ensemble learning with an interaction-based model
-  - Wrote a paper “Sentence Interaction-based Document Similarity Models for News Clustering.”
+  - Wrote a paper “Sentence Interaction-based Document Similarity Models for News Clustering”
 - **Crowd Sourcing Advertising Platform, AD:it** @ lecture 'Principles and Practices of Software Development' ([github](https://github.com/swsnu/swpp2019-team21))
-  - Created crowdsourcing-based advertising platform.
+  - Created crowdsourcing-based advertising platform
   - Devised simple recommendation system using word embeddings
-  - developed front-end user interface with React.js and back-end server using Django.
+  - Developed front-end user interface with React.js and back-end server with Django
 - **Naver News Article Classification** @ lecture 'Introduction to machine learning'
   - Created CNN/LSTM-based deep learning model to classify news articles from multiple sources into corresponding categories
 
@@ -68,7 +68,6 @@ Linkedin: [profile](https://www.linkedin.com/in/dhdroid/)  / Github: [profile](h
   - Participated in various competitions as a member of **"Little Piplup"**
     - UCPC, ACM-ICPC, Google Hash Code, etc
     - [Teamnote](https://github.com/gratus907/Little_Piplup)
-
 
 ## Honors
 - **ICPC NERC Huawei Challenge 2020, 5th place**  
