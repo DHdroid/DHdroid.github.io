@@ -34,9 +34,14 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
-google_analytics:
-  ua: UA-155155175-1
-
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-GYDL25PDH0"
+    anonymize_ip         : # true, false (default)
+    
 # Author
 author:
   name: "DHdroid"
