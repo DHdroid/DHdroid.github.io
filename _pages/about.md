@@ -3,9 +3,9 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
-last_modified_at: 2021-12-06 23:00:00 +09:00
+last_modified_at: 2021-05-22 16:40:00 +09:00
 --- 
-Last Update: 2021-12-06.
+Last Update: 2021-05-22.
 ## Contact
 E-mail: happydh1@snu.ac.kr  
 Linkedin: [profile](https://www.linkedin.com/in/dhdroid/)  / Github: [profile](http://github.com/DHdroid)
