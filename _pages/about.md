@@ -16,7 +16,8 @@ Linkedin: [profile](https://www.linkedin.com/in/dhdroid/)  / Github: [profile](h
   - GPA 3.96/4.3 (4.04/4.3 in major courses)
 
 ## Work Experiences
-- **VisualCamp** (R&D Team, AI Research Engineer, 산업기능요원) (2020.08~)
+- **Hyperconnect** (Moderation ML Team, ML Engineer, 산업기능요원) (2021.03~)
+- **VisualCamp** (R&D Team, AI Research Engineer, 산업기능요원) (2020.08~2021.03)
   - Implemented mobile gaze tracking SDK using modern C++ ([seeso.io](https://seeso.io/))
   - Trained and evaluated appearance-based gaze estimation models
   - Devised calibration algorithms for collecting user-specific parameters
