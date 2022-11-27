@@ -5,7 +5,7 @@ title: "About"
 author_profile: true
 last_modified_at: 2021-05-22 16:40:00 +09:00
 --- 
-Last Update: 2021-05-22.
+Last Update: 2022-05-22.
 ## Contact
 E-mail: happydh1@snu.ac.kr  
 Linkedin: [profile](https://www.linkedin.com/in/dhdroid/)  / Github: [profile](http://github.com/DHdroid)
@@ -16,8 +16,8 @@ Linkedin: [profile](https://www.linkedin.com/in/dhdroid/)  / Github: [profile](h
   - GPA 3.96/4.3 (4.04/4.3 in major courses)
 
 ## Work Experiences
-- **Hyperconnect** (Moderation ML Team, ML Engineer, 산업기능요원) (2021.03~)
-- **VisualCamp** (R&D Team, AI Research Engineer, 산업기능요원) (2020.08~2021.03)
+- **Hyperconnect** (Moderation ML Team, ML Engineer, 산업기능요원) (2022.03~)
+- **VisualCamp** (R&D Team, AI Research Engineer, 산업기능요원) (2020.08~2022.03)
   - Implemented mobile gaze tracking SDK using modern C++ ([seeso.io](https://seeso.io/))
   - Trained and evaluated appearance-based gaze estimation models
   - Devised calibration algorithms for collecting user-specific parameters
