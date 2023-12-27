@@ -25,11 +25,11 @@ Last Update: 2023-12-22
   - Trained and evaluated appearance-based gaze estimation models
   - Devised calibration algorithms for collecting user-specific parameters
 - **NCSOFT** (Language AI Team, Internship) (2020.01~2020.02)
-  - Worked on a graph-based model which calculates similarity beteween a news article pair 
+  - Worked on a graph-based model which calculates a similarity between a news article pair 
 
 ## Selected Publications
 **[W1] Gradient Estimation for Unseen Domain Risk Minimization with Pre-Trained Models** \
-Byunggyu Lew*, **Donghyun Son***, Buru Chang \
+Byunggyu Lew\*, **Donghyun Son**\*, Buru Chang \
 Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision @ ICCV2023 (**OOD-CV@ICCV23**)
 
 **[J1] Looking to Personalize Gaze Estimation Using Transformers** \
@@ -37,7 +37,7 @@ Seung Hoon Choi, **Donghyun Son**, Yunjong Ha, Seonghun Hong, Taejung Park \
 Journal of Computing Science and Engineering **(JCSE)**, Vol. 17, No. 2, pp.41-50
 
 **[C1] Reliable Decision from Multiple Subtasks through Threshold Optimization: Content Moderation in the Wild** \
-**Donghyun Son***, Byounggyu Lew*, Kwanghee Choi, Yongsu Baek, Seungwoo Choi, Beomjun Shin, Sungjoo Ha, Buru Chang \
+**Donghyun Son**\*, Byounggyu Lew\*, Kwanghee Choi, Yongsu Baek, Seungwoo Choi, Beomjun Shin, Sungjoo Ha, Buru Chang \
 ACM International Conference on Web Search and Data Mining (**WSDM23, Oral**)
 
 
