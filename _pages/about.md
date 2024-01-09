@@ -6,14 +6,14 @@ author_profile: true
 last_modified_at: 2023-12-22 16:40:00 +09:00
 font-size: 1
 ---
-I'm Donghyun Son, an undergraduate student studying computer science at **Seoul National University**. I am an aspiring machine learning researcher, and a competitive programmer. I'm currently interested in [modular deep learning](https://www.modulardeeplearning.com/) and in-context learning ability of LLMs. I'm also looking for a teammate for ICPC 2024 Korea Rounds. If you are interested any of those, feel free to reach me via e-mail(happydh1@snu.ac.kr)!
+I'm Donghyun Son, an undergraduate student studying computer science at **Seoul National University**. I am an aspiring machine learning researcher, and a competitive programmer. I'm currently interested in [modular deep learning](https://www.modulardeeplearning.com/) and in-context learning ability of LLMs. I'm also looking for a teammate for ICPC 2024 Korea Rounds. If you are interested in any of those, feel free to reach me via e-mail(happydh1@snu.ac.kr)!
 
 Last Update: 2023-12-22
 
 ## Education
 - **Seoul National University** (Expected 2025)
   - Major in Computer Science and Engineering
-  - GPA 3.96/4.3 (4.04/4.3 in major courses)
+  - GPA 4.02/4.3 (4.09/4.3 in major courses)
 
 ## Work Experiences
 - **Hyperconnect** (of Match Group) (Moderation ML Team, ML Engineer) (2022.03~)
