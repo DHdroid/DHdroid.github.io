@@ -13,7 +13,7 @@ Last Update: 2023-12-22
 ## Education
 - **Seoul National University** (Expected 2025)
   - Major in Computer Science and Engineering
-  - GPA 4.02/4.3 (4.09/4.3 in major courses)
+  - GPA 4.02/4.3 (4.12/4.3 in major courses)
 
 ## Work Experiences
 - **Hyperconnect** (of Match Group) (Moderation ML Team, ML Engineer) (2022.03~)
@@ -37,7 +37,7 @@ Seung Hoon Choi, **Donghyun Son**, Yunjong Ha, Seonghun Hong, Taejung Park \
 Journal of Computing Science and Engineering **(JCSE)**, Vol. 17, No. 2, pp.41-50
 
 **[C1] Reliable Decision from Multiple Subtasks through Threshold Optimization: Content Moderation in the Wild** \
-**Donghyun Son**\*, Byounggyu Lew\*, Kwanghee Choi, Yongsu Baek, Seungwoo Choi, Beomjun Shin, Sungjoo Ha, Buru Chang \
+**Donghyun Son**\*, Byounggyu Lew\*, Kwanghee Choi\*, Yongsu Baek, Seungwoo Choi, Beomjun Shin, Sungjoo Ha, Buru Chang \
 ACM International Conference on Web Search and Data Mining (**WSDM23, Oral**)
 
 
