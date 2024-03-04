@@ -16,7 +16,7 @@ Last Update: 2023-12-22
   - GPA 4.02/4.3 (4.12/4.3 in major courses)
 
 ## Work Experiences
-- **Hyperconnect** (of Match Group) (Moderation ML Team, ML Engineer) (2022.03~)
+- **Hyperconnect** (of Match Group) (Moderation ML Team, ML Engineer) (2022.03~2023.07)
   - Built an ML-based content moderation system for Match Group Brands 
   - Trained and deployed ML models for image and audio moderation
   - Researched on threshold optimization and domain generalization (published 2 papers, participated as a first author)
