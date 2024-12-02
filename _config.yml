@@ -309,8 +309,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Son]
+  first_name: [Donghyun]
 
   style: apa
   locale: en
