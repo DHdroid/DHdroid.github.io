@@ -24,4 +24,4 @@ Recently, I'm interested in addressing memory bounds for LLM inference. Particul
 
 Aside from research, I enjoy algorithmic problem solving and have competed in various competitive programming contests such as ICPC, Google Hashcode, and SCPC. You can find me on [codeforces](https://codeforces.com/profile/diordhd) and [BOJ](https://www.acmicpc.net/user/dhdroid).
 
-Links: [Github](https://github.com/DHdroid) / [CV](https://drive.google.com/file/d/1XSD7J0DhWlulvW_ALvRH3u24u68lmqkZ/view?usp=sharing) / [Google Scholar](https://scholar.google.com/citations?user=xAAK1lsAAAAJ&hl=ko) / [X](https://x.com/dhdroiid)
+Links: [Github](https://github.com/DHdroid) / [CV](assets/pdf/CV_Donghyun_Son.pdf) / [Google Scholar](https://scholar.google.com/citations?user=xAAK1lsAAAAJ&hl=ko) / [X](https://x.com/dhdroiid)
