@@ -25,9 +25,11 @@ I believe efficiency is key to achieving the goal, and focus on two directions: 
 - data- and compute-efficient training of large models
 - system-level optimization of ML workloads
 
+I have worked on making large language models efficient, including KV cache quantization (NeurIPS 2025, with Prof. Sungjoo Yoo) and systems for agentic workflows (under review, with Dr. Saurabh Agarwal and Prof. Aditya Akella).
 
 
+---
 Aside from research, I enjoy algorithmic problem solving and have competed in competitive programming contests. You can find me on [codeforces](https://codeforces.com/profile/diordhd) and [BOJ](https://www.acmicpc.net/user/dhdroid).
 
 
-Links: [Github](https://github.com/DHdroid) / [CV](assets/pdf/CV_Donghyun_Son.pdf) / [Google Scholar](https://scholar.google.com/citations?user=xAAK1lsAAAAJ&hl=ko) / [X](https://x.com/dhdroiid)
+Links: [Github](https://github.com/DHdroid) \| [CV](assets/pdf/CV_Donghyun_Son.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=xAAK1lsAAAAJ&hl=ko) \| [X](https://x.com/dhdroiid)
