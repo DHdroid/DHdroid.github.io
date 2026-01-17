@@ -32,4 +32,4 @@ I have worked on making large language models efficient, including KV cache quan
 Aside from research, I enjoy algorithmic problem solving and have competed in competitive programming contests. You can find me on [codeforces](https://codeforces.com/profile/diordhd) and [BOJ](https://www.acmicpc.net/user/dhdroid).
 
 
-Links: [Github](https://github.com/DHdroid) \| [CV](assets/pdf/CV_Donghyun_Son.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=xAAK1lsAAAAJ&hl=ko) \| [X](https://x.com/dhdroiid)
+Links: [Github](https://github.com/DHdroid) \| [CV](assets/pdf/CV_Donghyun_Son.pdf) \| [Google Scholar](https://scholar.google.com/citations?user=xAAK1lsAAAAJ&hl=ko) \| [X](https://x.com/dhdroiid) 
