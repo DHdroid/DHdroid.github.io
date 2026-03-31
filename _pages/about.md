@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a researcher working at the **intersection of ML and systems**.
+I'm an incoming Master's student in Computer Science at **Stanford**, working at the **intersection of ML and systems**.
 I'm particularly interested in algorithms that leverage the inherent sparsity in large models.
 
 During my undergraduate studies, I was fortunate to work with outstanding advisors: [Prof. Sungjoo Yoo](https://cmalab.snu.ac.kr/members/) from SNU, [Prof. Buru Chang](https://sites.google.com/view/buru-chang) from Hyperconnect, [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Dr. Saurabh Agarwal](https://saurabh.dev/) from UT Austin.
