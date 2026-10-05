@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ page.title | escape }}</title>
+<meta name="description" content="TaSQ tailors the vector quantization space for low-bit KV cache compression through query-guided weighting, shared-scale normalization, and covariance-aware grouping.">
+<link rel="canonical" href="https://DHdroid.github.io/TaSQ/">
+<meta property="og:title" content="{{ page.title | escape }}"><meta property="og:description" content="Query-guided, structure-aware vector quantization for efficient long-context LLM inference."><meta property="og:type" content="website"><meta property="og:url" content="https://DHdroid.github.io/TaSQ/"><meta property="og:image" content="https://DHdroid.github.io/TaSQ/assets/method-overview-hd.png">
+<link rel="stylesheet" href="style.css?v=11"></head><body>
+<a class="skip" href="#introduction">Skip to content</a>
+
+<main>
+<section class="hero">
+{% assign display_title = page.title | escape %}
+{% if page.title_break_before %}
+  {% assign break_before = page.title_break_before | escape %}
+  {% capture title_break %}<br class="desktop">{{ break_before }}{% endcapture %}
+  {% assign display_title = display_title | replace_first: break_before, title_break %}
+{% endif %}
+<h1>{{ display_title }}</h1>
+<div class="authors">{% for author in page.authors %}<span>{% if author.url %}<a href="{{ author.url }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}<sup>{{ author.markers }}</sup></span>{% endfor %}</div>
+<p class="affiliations">{{ page.affiliations }}</p>
+<p class="author-note">{{ page.author_note }}</p>
+<div class="project-links" aria-label="Project resources">
+{% for resource in page.resources %}
+  {% if resource.url and resource.url != 'TBD' %}
+  <a class="project-link" href="{{ resource.url | escape }}" target="_blank" rel="noopener">
+  {% else %}
+  <span class="project-link" aria-disabled="true">
+  {% endif %}
+    {% if resource.icon == 'github' %}
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2.2c-3.3.7-4-1.4-4-1.4-.5-1.4-1.3-1.8-1.3-1.8-1.1-.8.1-.8.1-.8 1.2.1 1.8 1.2 1.8 1.2 1.1 1.8 2.8 1.3 3.5 1 .1-.8.4-1.3.8-1.6-2.7-.3-5.5-1.3-5.5-6a4.7 4.7 0 0 1 1.2-3.2c-.1-.3-.5-1.5.2-3.2 0 0 1-.3 3.3 1.2a11.5 11.5 0 0 1 6 0C17.4 4.8 18.4 5 18.4 5c.7 1.7.3 2.9.2 3.2a4.7 4.7 0 0 1 1.2 3.2c0 4.7-2.8 5.7-5.5 6 .4.4.8 1.1.8 2.2v3.5c0 .3.2.7.8.6A12 12 0 0 0 12 .3Z"/></svg>
+    {% else %}
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 3H6a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8Z"/><path d="M14 3v5h5M8 12h8M8 16h8"/></svg>
+    {% endif %}
+    {{ resource.name | escape }}{% if resource.url == 'TBD' or resource.url == nil %}<span class="resource-status">TBD</span>{% endif %}
+  {% if resource.url and resource.url != 'TBD' %}</a>{% else %}</span>{% endif %}
+{% endfor %}
+</div>
+
+</section>
+{{ content }}
+<footer><p>TaSQ · {% for author in page.authors %}{{ author.name }}{% unless forloop.last %} · {% endunless %}{% endfor %}</p></footer>
+</main><script src="script.js?v=4"></script>
+</body></html>
