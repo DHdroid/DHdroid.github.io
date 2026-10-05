@@ -17,10 +17,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm an incoming Master's student in Computer Science at **Stanford**, working at the **intersection of ML and systems**.
-I'm particularly interested in algorithms that leverage the inherent sparsity in large models.
+I'm a Master's student in Computer Science at **Stanford**, working at the **intersection of ML and systems**.
 
-During my undergraduate studies, I was fortunate to work with outstanding advisors: [Prof. Sungjoo Yoo](https://cmalab.snu.ac.kr/members/) from SNU, [Prof. Buru Chang](https://sites.google.com/view/buru-chang) from Hyperconnect, [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Dr. Saurabh Agarwal](https://saurabh.dev/) from UT Austin.
+Prior to Stanford, I
+- worked closely with [Prof. Sungjoo Yoo](https://cmalab.snu.ac.kr/members/) on KV cache compression algorithms and diffusion language models.
+- was an ML engineer at [Hyperconnect](https://hyperconnect.com/) (Acquired by Match Group), building an ML-based content moderation system for dating services (e.g. Tinder, Hinge).
+
+<!-- During my undergraduate studies, I was fortunate to work with outstanding advisors: [Prof. Sungjoo Yoo](https://cmalab.snu.ac.kr/members/) from SNU, [Prof. Buru Chang](https://sites.google.com/view/buru-chang) from Hyperconnect, [Prof. Aditya Akella](https://www.cs.utexas.edu/~akella/) and [Dr. Saurabh Agarwal](https://saurabh.dev/) from UT Austin. -->
 
 I would love to chat or collaborate, so feel free to reach out.
 
