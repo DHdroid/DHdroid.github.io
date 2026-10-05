@@ -6,9 +6,9 @@ title_break_before: "for 1-Bit KV"
 resources:
   - name: Code
     icon: github
-    url: TBD
+    url: https://github.com/mscheong01/tasq
   - name: Paper
-    url: TBD
+    url: https://arxiv.org/abs/2610.03027
 authors:
   - name: Minsoo Cheong
     url: https://www.linkedin.com/in/minsoo-cheong-606314206/
