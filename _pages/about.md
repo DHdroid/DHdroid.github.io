@@ -17,7 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a first-year Master's student in Computer Science at Stanford. I make generative models more efficient.
+I'm a Master's student in Computer Science at **Stanford University**, where I'm a member of the [Ermon Group](https://cs.stanford.edu/~ermon/website/) advised by [Stefano Ermon](https://cs.stanford.edu/~ermon/).
+I make generative models more efficient.
 
 Prior to Stanford, I
 - worked closely with [Prof. Sungjoo Yoo](https://cmalab.snu.ac.kr/members/) on KV cache compression algorithms and diffusion language models.
